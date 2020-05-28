@@ -1,5 +1,9 @@
 <?php
 
+//Bu plugin xRookieFight tarafından yapılmıştır.
+//Eğer bir hata çıkarsa discord'dan ulaşabilirsiniz xRookieFight#0001
+//Pluginin editlenmesi veya çalınması kesinlikle yasaktır! Bilmiyorsanız LISENCE.MD ve SECURITY.MD'yi okuyunuz.
+
 namespace xRookieFight;
 
 use pocketmine\plugin\PluginBase;
