@@ -1,0 +1,9 @@
+name: MekanUI
+main: xRookieFight\Main
+api: 3.3.1
+version: 1.0
+author: xRookieFight
+
+commands:
+  mekan:
+    description: MekanUI By xRookieFight
