@@ -72,7 +72,7 @@ class Main extends PluginBase implements Listener{
 				}
 			});
 			$form->setTitle("§9Mekan§fUI");
-			$form->setContent("§7»§fIşınlanma Yerine Geldin \nMekanlar aşağıdadır.");
+			$form->setContent("§7»§fIşınlanma Yerine Geldin \nMekanlar aşağıdadır. \n§bBy xRookieFight");
 			$form->addButton("§bLobiye Işınlan");
 			$form->addButton("§bHammaddeye Işınlan");
 			$form->addButton("§bLapise Işınlan");
